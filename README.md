@@ -1,6 +1,7 @@
-## Deadsimple JRuby troubleshooting with Unix and JVM tools
+## Objective-C Introduction
 
-Slides from my talk on RubyShift 2012 conference.
-To observe, open `tempalate.html` in your browser.
+[Slides for Objective-C workshop at
+RailsWare](http://cris.github.com/objective-c-introduction-2013/)
+
 
 Based on Google IO template.
